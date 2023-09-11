@@ -1,0 +1,3 @@
+Date: September 10, 2023
+
+This project is one of the first websites I will create. It is going to be a recipe website that currently being made to practice my HTML knowledge. By the end of its creation hopefully it is a full on website, but for now it will be a basic website with a main index page and some links to a few recipes. Until I revisit it, it won't look too pretty but is a picotal part of my journey to learn web development code. 
