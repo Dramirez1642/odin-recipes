@@ -1,7 +1,11 @@
-div.page-title {
+.page-title {
     text-align: center;
     font-size: 56px;
-    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 44px;
 }
 
 #title-image {
@@ -18,17 +22,19 @@ div.page-title {
     
 }
 
-.list {
+.ingredients-list {
     text-align: center;
     list-style-type: none;
     margin-right: 50px;
+    font-size: 22px;
+
 }
 
-.recipe-link {
+.steps-list {
     font-size: 22px;
 }
 
-
 * {
     background-color: rgb(93, 93, 93);
+    font-family: 'Times New Roman', Times, serif;
 }
